@@ -4,6 +4,8 @@ ARkit galgame demo
 
 Xcode Version 9.2
 
+the bgm and character voice and picture is from net
+
 control: 
 
 first find the horizontal surface
